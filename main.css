@@ -1,0 +1,103 @@
+
+body { 
+    font-family: "Gill Sans", sans-serif;
+    
+}
+
+h3 {
+    padding-left: 288px;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 100px;
+    color: #333333;
+}
+h1 {
+    padding-left: 288px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 600;
+    font-size: 90px;
+    text-align: left;
+    margin-top: 30px;
+    color: #333333;
+} 
+
+h2 {
+    padding-left: 288px;
+    font-size: 50px;
+    font-weight: lighter;
+    margin-top: 100px;
+    color: #333333;
+}
+#oversikt {
+    width: 1920px; 
+    height: 882; 
+    background-color: #ECEAFF; 
+    margin-top: 377px; 
+    
+}  
+
+#screenshots { 
+    margin-top: 100px;
+    width:1920px; 
+    height:782px; 
+    background-color: #D8FBFF;
+    padding-top: 100px;
+    padding-left: 17%;
+}
+
+#farger {
+    margin-top:100px;
+    width: 100%; 
+    height:682px; 
+    background-color: #DBD9FF;  
+    padding-top: 100px;
+
+}
+
+#fargepalett { 
+   margin-left: 420px;
+    
+}
+
+#knappene {
+    margin-top:70px; 
+    margin-left:440px;
+}
+
+#mobil { 
+    margin-left: -300px; 
+} 
+
+#ipad { 
+margin-top: -2600px;
+margin-left: 300px; 
+} 
+
+#grunnprinsipper, p { 
+    font-size: 20px;
+    font-weight: lighter;
+    width: 800px;
+    line-height: 1.8; 
+    margin-left: 400px;
+}
+
+
+
+#line2 { 
+ margin-left: 220px;
+ margin-top:70px;
+ margin-bottom: 60px;
+}
+
+#knapper { 
+    margin-left: 480px;
+    margin-top:100px;
+}
+
+#til-oversikt { 
+margin-left: 50px;
+}
+
+#fullfør { 
+margin-left: 50px;
+}
